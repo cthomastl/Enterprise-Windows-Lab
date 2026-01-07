@@ -29,17 +29,21 @@ Figure 1: Active Directory Users and Computers showing the 'Houston' OU structur
 <img width="379" height="266" alt="AD1" src="https://github.com/user-attachments/assets/5dd99d42-bc6d-43ff-abb6-f1bc1e7f1a9f" />
 
 
-Figure 2: GPO 'Disable Guest' linked and enforced on the Houston OU.
+Figure 2: GPO 'Disable Guest' linked and enforced on the Houston OU
+
 <img width="508" height="341" alt="GPO" src="https://github.com/user-attachments/assets/e24f4e6d-2175-41ad-aff1-7e198914297b" />
 
 Hybrid Cloud Integration (AWS & Entra ID)
 Evidence of the bridge between on-premises servers and cloud services.
+
 <img width="493" height="374" alt="EntraConnect" src="https://github.com/user-attachments/assets/dbde8046-a8d0-43b8-bdcc-a69f0f940841" />
 
 Figure 3: Configuration of Microsoft Entra Connect for hybrid identity sync.
+
 <img width="893" height="380" alt="image" src="https://github.com/user-attachments/assets/4b15ad45-18ac-4d6f-ac82-8d88e20caacb" />
 
 Figure 4: Route 53 Hosted Zone management for cthomas.cloud.
+
 <img width="800" height="363" alt="image" src="https://github.com/user-attachments/assets/f2b799c5-dc72-4867-a06e-a97745e1e447" />
 
 
