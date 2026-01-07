@@ -60,6 +60,10 @@ Figure 6: The live corporate intranet dashboard featuring safety metrics and res
 Figure 7: IIS Manager overseeing the web server configuration.
 <img width="854" height="463" alt="IISWebSite" src="https://github.com/user-attachments/assets/b6866885-c863-48c7-a748-81b8cb8a5c0a" />
 
+Figure 8: Internal DNS with different Zones, forward and reverse. Web Server and client records added.
+<img width="456" height="205" alt="image" src="https://github.com/user-attachments/assets/bc938e59-1b6c-47c3-8138-51f4a0a4408b" />
+
+
 Tools & Technologies
 Directory Services: Active Directory, Microsoft Entra ID (Azure AD).
 
