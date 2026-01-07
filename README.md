@@ -26,6 +26,7 @@ Active Directory & Group Policy
 The core of the identity management system, showing the organizational structure and security enforcement.
 
 Figure 1: Active Directory Users and Computers showing the 'Houston' OU structure.
+
 <img width="379" height="266" alt="AD1" src="https://github.com/user-attachments/assets/5dd99d42-bc6d-43ff-abb6-f1bc1e7f1a9f" />
 
 
